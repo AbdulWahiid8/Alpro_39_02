@@ -1,0 +1,14 @@
+2. Buatlah pseudocode untuk program berikut ini!
+	a. Menentukan nilai tertinggi antara variabel X dan Y
+		Mulai
+		Input nilai x dan y
+		if x > y then
+			nilai x tertinggi 
+		else if
+			nilai y tertinggi
+		end if
+		
+	b. Menentukan nilai tertinggi nilai x, y dan z
+		Mulai
+		Input nilai x, y, dan z
+		
