@@ -11,4 +11,34 @@
 	b. Menentukan nilai tertinggi nilai x, y dan z
 		Mulai
 		Input nilai x, y, dan z
+		if x > y && x > z Then
+			nilai x tertinggi
+		if y > z && y > x then 
+			nilai y tertinggi
+		else if z > x && z > y then
+			nilai z tertinggi
+		end if
+
+	c. Menentukan bilangan pembagi terkecil selain angka 1 & 2
+		Mulai
+		input angka
+		for i = 3
+		    i <= angka
+		    i++
+		if angka % i == 0 Then
+			Print "angka pembagi"
+		end if	
+
+	d. Menentukan sebuah angka adalah bilangan prima atau tidak
+		Mulai
+		input angka
+		bilangan = 0
+		for i = 1
+		    i < bil
+		    i++
+		if bilangan == 2 Then
+			print "Bilangan Prima"
+		else if
+			print "Bukan Bilangan Prima"
+		end if		
 		
