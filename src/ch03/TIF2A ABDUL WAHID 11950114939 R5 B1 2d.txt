@@ -1,0 +1,13 @@
+d. Menentukan sebuah angka adalah bilangan prima atau tidak
+		Mulai
+		input angka
+		bilangan = 0
+		for i = 1
+		    i < bil
+		    i++
+		if bilangan == 2 Then
+			print "Bilangan Prima"
+		else if
+			print "Bukan Bilangan Prima"
+		end if		
+		

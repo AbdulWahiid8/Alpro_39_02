@@ -1,0 +1,10 @@
+b. Menentukan nilai tertinggi nilai x, y dan z
+		Mulai
+		Input nilai x, y, dan z
+		if x > y && x > z Then
+			nilai x tertinggi
+		if y > z && y > x then 
+			nilai y tertinggi
+		else if z > x && z > y then
+			nilai z tertinggi
+		end if
