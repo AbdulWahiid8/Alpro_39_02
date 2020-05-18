@@ -1,0 +1,5 @@
+C. Menentukan Bilaingan Pembagi terkecil selain angka 1 dan 2
+	Masukkan Angka
+	Buatlah Sebuah perulangan For
+	Buatlah sebuah  inisialisasi, statement, update dan masukkan kedalam perulangan tersebut (i = 3, i <= angka, i++)
+	Buatlah sebuah konsdisi (Angka % i == 0)

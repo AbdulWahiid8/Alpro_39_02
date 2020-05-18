@@ -1,0 +1,5 @@
+B. Menentukan Nilai Tertinggi antara variabel X, Y dan Z
+	Masukkan Nilai X, Y dan Z
+	Jika X lebih besar dari Y dan Z, maka X nilai tertinggi
+	Jika Y lebih besar dari X dan Z, mak Y nilai tertinggi
+	Jika Z lebih besar dari X dan Y, maka Z nilai Tertinggi

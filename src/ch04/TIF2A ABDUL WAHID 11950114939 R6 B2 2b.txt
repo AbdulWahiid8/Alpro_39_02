@@ -1,0 +1,15 @@
+data array {82, 12, 41, 38, 19, 26, 9, 48, 20, 55, 8, 32, 3}
+B. Mencari sebuah angka didalam array tersebut 
+	Mulai
+	data array
+	Input bilangan
+	boleean a = false
+	for i = 0
+	    i < data.length
+	    i++
+	if data[i] == bilangan Then
+			Angka terdapat pada Index	
+		a = True
+	if !a Then
+			Angka tidak terdapat pada index		
+	endif

@@ -1,0 +1,8 @@
+data array {82, 12, 41, 38, 19, 26, 9, 48, 20, 55, 8, 32, 3}
+E. Menampilkan angka-angka yang memiliki angka 2 didalam array tersebut
+	Mulai
+	data array
+	for int bilangan : angka 
+	if String.valueOf(bilangan).contains("2") Then
+			print"bilangan"
+	endif

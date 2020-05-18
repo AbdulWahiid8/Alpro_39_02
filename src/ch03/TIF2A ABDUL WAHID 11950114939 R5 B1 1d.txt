@@ -1,0 +1,9 @@
+D. Menentukan Sebuah angka adalah bilangan prima atau tidak
+	Masukkan Angka
+	Buatlah Sebuah perulangan For
+	Tambahkan sebuah Tipe data dan statementnya
+	Buatlah sebuah inisialisasi, statement, update dan Masukkan kedalam perulangan tersebut (int i = 1; i < bil; i++)
+	Buatlah sintaks if dan kondisinya (bil % i == 0)
+	Tambahkan sebuah statement yang diberi tipe data tadi (bilangan = bilangan + 1)
+	Buatlah sintaks if dan kondisinya (bilangan == 2)
+	

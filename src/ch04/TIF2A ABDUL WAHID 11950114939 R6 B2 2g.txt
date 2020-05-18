@@ -1,0 +1,10 @@
+data array {82, 12, 41, 38, 19, 26, 9, 48, 20, 55, 8, 32, 3}
+G. Menampilkan angka-angka kelipata 5 yang sebelumnya juga angka kelipatan 5
+   didalam array tersebut
+
+	Mulai
+	data array
+	for int bilangan : data
+	if bilangan % 5 == 0 Then
+		print"bilangan"
+	endif

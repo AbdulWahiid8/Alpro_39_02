@@ -1,0 +1,10 @@
+data array {82, 12, 41, 38, 19, 26, 9, 48, 20, 55, 8, 32, 3}
+F. Menampilkan angka-angka ganjil yang didapit oleh angka genap didalam array tersebut
+	Mulai
+	data array
+	for  i = 0 
+	     i < 12
+	     i++
+	if data[i] % 2 == 1 Then
+		print"data[i]"
+	endif  
