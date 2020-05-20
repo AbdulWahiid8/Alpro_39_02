@@ -6,3 +6,4 @@ C. Menampilkan angka-angka ganjil didalam array tersebut
 	if bilangan % 2 == 1 Then
 		print "bilangan"
 	endif
+	endfor

@@ -13,3 +13,4 @@ B. Mencari sebuah angka didalam array tersebut
 	if !a Then
 			Angka tidak terdapat pada index		
 	endif
+	end for

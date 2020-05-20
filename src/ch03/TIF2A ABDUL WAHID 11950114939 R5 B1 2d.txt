@@ -10,4 +10,4 @@ d. Menentukan sebuah angka adalah bilangan prima atau tidak
 		else if
 			print "Bukan Bilangan Prima"
 		end if		
-		
+		end for

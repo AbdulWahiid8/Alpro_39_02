@@ -6,3 +6,4 @@ D. Menampilkan angka-angka kelipatan 3 didalam array tersebut
 	if bilangan % 3 == 0 Then
 		print "bilangan"
 	endif
+	endfor

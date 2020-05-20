@@ -8,3 +8,4 @@ G. Menampilkan angka-angka kelipata 5 yang sebelumnya juga angka kelipatan 5
 	if bilangan % 5 == 0 Then
 		print"bilangan"
 	endif
+	endfor

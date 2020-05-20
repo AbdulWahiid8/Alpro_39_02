@@ -6,3 +6,4 @@ E. Menampilkan angka-angka yang memiliki angka 2 didalam array tersebut
 	if String.valueOf(bilangan).contains("2") Then
 			print"bilangan"
 	endif
+	endfor

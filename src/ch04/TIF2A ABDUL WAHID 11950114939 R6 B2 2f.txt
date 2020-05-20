@@ -8,3 +8,4 @@ F. Menampilkan angka-angka ganjil yang didapit oleh angka genap didalam array te
 	if data[i] % 2 == 1 Then
 		print"data[i]"
 	endif  
+	endfor

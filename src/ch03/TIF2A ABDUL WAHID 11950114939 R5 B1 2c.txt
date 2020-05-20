@@ -7,3 +7,4 @@ c. Menentukan bilangan pembagi terkecil selain angka 1 & 2
 		if angka % i == 0 Then
 			Print "angka pembagi"
 		end if	
+		end for
