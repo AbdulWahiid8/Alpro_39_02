@@ -1,8 +1,0 @@
-a. Menentukan nilai tertinggi antara variabel X dan Y
-		Mulai
-		Input nilai x dan y
-		if x > y then
-			nilai x tertinggi 
-		else if
-			nilai y tertinggi
-		end if

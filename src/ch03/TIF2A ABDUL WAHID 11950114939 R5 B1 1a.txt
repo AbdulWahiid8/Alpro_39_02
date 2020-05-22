@@ -1,4 +1,0 @@
-A. Menentukan Nilai Tertinggi antar variabel X dan Y
-	Masukkan Nilai X dan Y
-	Jika X lebih Besar dari Y, maka X nilai tertinggi
-	Jika Y lebih besar dari X, maka Y nilai tertinggi

@@ -8,7 +8,7 @@ public class PembagiTerkecil {
         System.out.println("Masukkan Angka");
             int angka = sc.nextInt();
 
-        System.out.println("Prembagi Terkecil dari angka " +angka+ ", Selain 1 dan 2 adalah : ");
+        System.out.println("Pembagi Terkecil dari angka " +angka+ ", Selain 1 dan 2 adalah : ");
 
         for (int i = 3; i <= angka; i++) {
             if(angka % i == 0) {
